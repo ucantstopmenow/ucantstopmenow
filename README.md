@@ -1,7 +1,7 @@
 # ★ Hey, welcome to my GitHub. ★
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
 
-![Banner](https://i.pinimg.com/originals/03/54/e5/0354e580448fea50395b7ceef04f8d3d.gif)
+![Banner](https://i.pinimg.com/originals/70/c7/70/70c77095f271428142d9dea2c3521211.gif)
 
 🎂 Idade: Agosto de 2004
 
