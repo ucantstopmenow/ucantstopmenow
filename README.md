@@ -1,7 +1,7 @@
 # ★ Hey, welcome to my GitHub. ★
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
 
-<img src="https://i.pinimg.com/564x/3c/1e/2e/3c1e2e6010950d1279383c45b5c66506.jpg" alt="Banner" width="30%" align="left">
+<img src="https://i.pinimg.com/564x/3c/1e/2e/3c1e2e6010950d1279383c45b5c66506.jpg" alt="Banner" width="60%" align="left">
 
 <div align="right">
 
