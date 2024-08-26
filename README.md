@@ -2,43 +2,23 @@
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
 
 <img src="https://i.pinimg.com/564x/3c/1e/2e/3c1e2e6010950d1279383c45b5c66506.jpg" alt="Banner" width="40%" align="left">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 <div align="left">
 
-🎂 **Idade:** Agosto de 2004
+### Skills:
+- Node.js
+- SQL
+- Java
+- JavaScript
+- Python
 
-📧 **Email:** pimenttasouzza02@gmail.com
-
-📞 **Celular:** (11) 98110-4828
-
-### Competências:
-- Node.js (Básico)
-- BigQuery (Básico)
-- SQL (Intermediário)
-- Java (Básico)
-- JavaScript (Intermediário)
-- Python (Intermediário)
-- HTML e CSS (Intermediário)
-- Microsoft Excel (Intermediário)
-- Design Thinking
-- Metodologias Ágeis
-- Análise de Dados
-
-### Emblemas relevantes na plataforma Trailhead:
-- Modelagem de Dados
+### Relevant badges on the Trailhead platform:
+- Data Modeling
 - Salesforce CRM
-- Noções Básicas do Service Cloud
+- Service Cloud Basics
 - Innovation Ideation & Prototyping
-- Início Rápido: Apex
-
-### Projetos:
-- Desenvolvimento de um game utilizando C# com Unity
-- Desenvolvimento de uma calculadora de conversão de bases numéricas
-- Desenvolvimento de sites utilizando HTML, CSS, JavaScript e Node.js
-
-### Idiomas:
-- Inglês (Intermediário)
-
 </div>
 
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
