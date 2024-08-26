@@ -4,8 +4,6 @@
 <img src="https://i.pinimg.com/564x/3c/1e/2e/3c1e2e6010950d1279383c45b5c66506.jpg" alt="Banner" width="40%" align="left">
 <div align="left">
 
-### Stefanini.:
-
 ### Experience:
 - API's
 - Front-End
