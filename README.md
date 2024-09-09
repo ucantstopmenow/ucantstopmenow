@@ -7,7 +7,6 @@
 - Front-End
 - Salesforce
 - UX/UI Design
-- Back-End
 
 ### Skills:
 - Node.js
